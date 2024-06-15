@@ -1,8 +1,8 @@
 @app
-my-remix-app-34d0
+my-remix-app
 
 @aws
-runtime nodejs18.x
+runtime nodejs20.x
 # concurrency 1
 # memory 1152
 profile default
